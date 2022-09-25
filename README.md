@@ -9,13 +9,19 @@ Merhaba. [Patika.dev](https://www.patika.dev/tr)'in Veri Yapıları ve Algoritma
 Cevap;
 
 root=7
-       7
+
+   
+   7
        
-      / \
+   
+   / \
       
-     5   8 
+   
+   5   8 
     
-    / \   \
+   
+   / \   \
+   
    
    1   6   9 
   
